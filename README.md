@@ -48,7 +48,7 @@
   <h2>🧠 CTFs & Competitive Platforms</h2>
   <ul>
     <li><a href="https://picoctf.org/users/Joya_Biswas">PicoCTF</a></li>
-    <li>
+    <li><a href="https://tryhackme.com/p/YourUsername" target="_blank">TryHackMe</a><br>
   <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2139063" style="border:none;"></iframe></li>
     <li><a href="https://codeforces.com/profile/Joya_Biswas">Codeforces</a></li>
     <li><a href="https://leetcode.com/u/JB10__">LeetCode</a></li>
