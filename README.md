@@ -7,15 +7,6 @@
     📄 <a href="./Joya_Biswas_Resume.pdf" download>Download Resume</a>
   </p>
 
- <h2>📚 Publications & Achievements</h2>
-<div class="card">
-  <ul>
-    <li>📖 <i>A Study of Variation of Blockchain for Secure Verification & Validation</i> – Research paper on identifying the most efficient, scalable, and cost-effective blockchain systems with prioritized security using blockchain models.</li>
-    <li>🏆 <b>8th Place National (Cloud Track)</b> – Huawei ICT Competition 2023–2024</li>
-    <li>🌟 <b>Top 5 Finalist</b> – Agents of Change 2.0 – Developing creative solutions for real-world education issues.</li>
-  </ul>
-</div>
-
   
   <h2>💼 Featured Projects</h2>
 <div class="card">
@@ -43,42 +34,6 @@
   <p>A website for a bakery shop (HTML, CSS, PHP).</p>
 </div>
 
-  <h2>💼 Work Experience</h2>
-<div class="card">
-  <h3>Cyberlog – Dhaka, Bangladesh</h3>
-  <p><strong>Red Team Intern (Jan 2025 – Apr 2025)</strong></p>
-  <ul>
-    <li>🛡️ Conducted penetration testing and vulnerability assessments</li>
-    <li>🕵️‍♂️ Assisted in incident response and threat analysis</li>
-    <li>⚙️ Contributed to a government cybersecurity project</li>
-    <li>📈 Supported cybersecurity strategy and marketing initiatives</li>
-  </ul>
-</div>
-
-<div class="card">
-  <h3>Welkin Pastry Ltd – Dhaka, Bangladesh</h3>
-  <p><strong>Digital Content Specialist (2021 – Present)</strong></p>
-  <ul>
-    <li>🌐 Developed websites and created digital content</li>
-    <li>✏️ Paraphrased articles, performed data entry, and copywriting</li>
-  </ul>
-</div>
-
-<div class="card">
-  <h3>Cloud Creatives – Dhaka, Bangladesh</h3>
-  <p><strong>Graphics Design Intern (May 2024 – Aug 2024)</strong></p>
-  <ul>
-    <li>🎨 Designed branding materials, social media posts, and presentations</li>
-  </ul>
-</div>
-
-<div class="card">
-  <h3>R&B Fashion BD – Dhaka, Bangladesh</h3>
-  <p><strong>Sales & Marketing Coordinator (2019 – 2021)</strong></p>
-  <ul>
-    <li>📊 Managed sales campaigns, marketing materials, and customer relationships</li>
-  </ul>
-</div>
 
   <h2>🏅 Certifications</h2>
 <div class="card">
@@ -93,7 +48,8 @@
   <h2>🧠 CTFs & Competitive Platforms</h2>
   <ul>
     <li><a href="https://picoctf.org/users/Joya_Biswas">PicoCTF</a></li>
-    <li><a href="https://tryhackme.com/badge/2139063">TryHackMe</a></li>
+    <li>
+  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2139063" style="border:none;"></iframe></li>
     <li><a href="https://codeforces.com/profile/Joya_Biswas">Codeforces</a></li>
     <li><a href="https://leetcode.com/u/JB10__">LeetCode</a></li>
   </ul>
@@ -135,6 +91,5 @@
   <h2>📬 Contact Me</h2>
   <ul>
     <li>Email: <a href="mailto:joyabiswas0103@gmail.com">joyabiswas0103@gmail.com</a></li>
-    <li>Phone: +8801997962818</li>
     <li>LinkedIn: <a href="https://linkedin.com/in/joya-biswas-a8b74b222">joya-biswas-a8b74b222</a></li>
   </ul>
