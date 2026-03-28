@@ -38,7 +38,7 @@
   <h2>🏅 Certifications</h2>
 <div class="card">
   <ul>
-    <li>📜 Foundations of Cybersecurity – Google</li>
+    <li>📜 Google Cybersecurity Professional Certificate </li>
     <li>📜 Cybersecurity Zero to Hero – Skillshare</li>
     <li>📂 <a href="https://github.com/Joya-Biswas/Certificates" target="_blank">All Certificates GitHub Folder</a></li>
   </ul>
@@ -49,9 +49,6 @@
   <ul>
     <li><a href="https://picoctf.org/users/Joya_Biswas">PicoCTF</a></li>
     <li><a href="https://tryhackme.com/p/YourUsername" target="_blank">TryHackMe</a><br>
-  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2139063" style="border:none;"></iframe></li>
-    <li><a href="https://codeforces.com/profile/Joya_Biswas">Codeforces</a></li>
-    <li><a href="https://leetcode.com/u/JB10__">LeetCode</a></li>
   </ul>
 
   <h2>🛠️ Skills</h2>
