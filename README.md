@@ -7,39 +7,10 @@
     📄 <a href="./Joya_Biswas_Resume.pdf" download>Download Resume</a>
   </p>
 
-  
-  <h2>💼 Featured Projects</h2>
-<div class="card">
-  <h3>🛡️ Ether-vs-Lightweight <a href="https://github.com/Joya-Biswas/Ether-vs-Lightweight">[GitHub]</a></h3>
-  <p>A group project on a web-based platform for comparing the efficiency, scalability, and cost-effectiveness of blockchain systems with a focus on security. Users can upload data, run experiments, and visualize performance metrics like gas usage and execution time for Ethereum and Lightweight Blockchain (Streamlit, Solidity, Ganache CLI, Truffle, and IPFS).</p>
-</div>
-<div class="card">
-  <h3>🔐 TokenMimic <a href="https://github.com/Joya-Biswas/TokenMimic">[GitHub]</a></h3>
-  <p>A tool for privilege escalation via token manipulation (C++).</p>
-</div>
-<div class="card">
-  <h3>👶 BabyShield <a href="https://github.com/Joya-Biswas/BabyShield-Vaccination-">[GitHub]</a></h3>
-  <p>A vaccination tracker website for parents (HTML/CSS/JS/MySQL).</p>
-</div>
-<div class="card">
-  <h3>🩺 3D Medical Images Viewing and Analysis <a href="#">[GitHub]</a></h3>
-  <p>A tool for viewing and analyzing 3D medical images (Python, Streamlit, Scikit-Image, and Matplotlib).</p>
-</div>
-<div class="card">
-  <h3>💳 Online Payment Gateway for Department <a href="#">[GitHub]</a></h3>
-  <p>A payment-bill transaction website (HTML, CSS, Javascript, MySQL).</p>
-</div>
-<div class="card">
-  <h3>🍰 Incredible Bakery <a href="https://github.com/Joya-Biswas/BakeryShop-Website">[GitHub]</a></h3>
-  <p>A website for a bakery shop (HTML, CSS, PHP).</p>
-</div>
-
 
   <h2>🏅 Certifications</h2>
 <div class="card">
   <ul>
-    <li>📜 Google Cybersecurity Professional Certificate </li>
-    <li>📜 Cybersecurity Zero to Hero – Skillshare</li>
     <li>📂 <a href="https://github.com/Joya-Biswas/Certificates" target="_blank">All Certificates GitHub Folder</a></li>
   </ul>
 </div>
@@ -62,7 +33,7 @@
   <div class="card">
     <h3>💻 Programming</h3>
     <ul>
-      <li>C, C++, Python, HTML, CSS, JS, PHP, MySQL, Shell</li>
+      <li>C, C++, Python, HTML, CSS, PHP, MySQL, Shell</li>
     </ul>
   </div>
   <div class="card">
